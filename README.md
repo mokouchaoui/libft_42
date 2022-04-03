@@ -22,7 +22,7 @@ Libft (42cursus) 2022-2023
 - Clone libft into your project folder
 
 ```sh
-git clone https://github.com/mokouchaoui/libft.git
+git clone https://github.com/mokouchaoui/libft_42.git
 ```
 
 - Run make inside libft folder (make rules: all, clean, fclean, re)
