@@ -14,7 +14,7 @@ Libft (42cursus) 2022-2023
 
 - Status: still updating (I use libft a lot so I keep improving it)
 - Actual Status : no yet.
-- Result        : 125
+- Result        : [![mokoucha's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1kxr64e028609jmgc9kut79/project/2537395)](https://github.com/JaeSeoKim/badge42)
 - Observations : (null)
 
 ## How to install and use
